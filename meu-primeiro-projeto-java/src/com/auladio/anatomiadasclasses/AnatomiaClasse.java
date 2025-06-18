@@ -1,3 +1,5 @@
+package com.auladio.anatomiadasclasses;
+
 public class AnatomiaClasse {
 
     public static void main (String[] args) {
